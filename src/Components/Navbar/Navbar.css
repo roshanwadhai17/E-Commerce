@@ -47,18 +47,12 @@
         align-items: center;
         gap: 45px;
     }
-        .nav-login-cart button{
-        width: 157px;
-        height: 58px;
-        outline: none;
-        border: 1px solid #7a7a7a;
-        border-radius: 75px;
-        color: #515151;
-        font-size: 20px;
-        font-weight: 500;
-        background: white;
-        cursor: pointer;
-        }
+
+    li{
+        list-style-type: none;
+
+    }
+        
 
         .nav-cart-count{
             width: 22px;
@@ -74,6 +68,21 @@
             color: white;
         }
 
-        Link{
-            text-decoration: none;
-        }
+          
+          
+          .nav-login-cart button{
+            width: 157px;
+            height: 58px;
+            outline: none;
+            border: 1px solid #7a7a7a;
+            border-radius: 75px;
+            color: #515151;
+            font-size: 20px;
+            font-weight: 500;
+            background: white;
+            cursor: pointer;
+            list-style-type: none;
+            position: relative;
+            }
+
+         

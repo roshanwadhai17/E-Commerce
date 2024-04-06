@@ -24,3 +24,10 @@
     transform: scale(1.05);
     transition: 0.6s;
     }
+
+.item img{
+  height: 400px;
+  border-radius: 10px;
+  width: 300px;
+  object-fit: cover;
+}

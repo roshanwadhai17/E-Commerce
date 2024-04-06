@@ -10,12 +10,12 @@ import Newsletter from '../Components/Newsletter/Newsletter'
 function Shop() {
   return (
     <>
+    
     <Hero/>
     <Popular/>
     <Offers/>
     <Newcollection/>
     <Newsletter/>
-    
 
     </>
     

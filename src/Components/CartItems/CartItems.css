@@ -116,3 +116,20 @@
         margin: 10px;
 
     }
+   
+    span{
+
+      font-size: 16px;
+      line-height: 24px;
+      padding: 5px 30px 5px 30px;
+      margin: 10px;
+      
+    }
+
+    .cartitems-quantity-control{
+        outline: none;
+        border: none;
+        font-size: 16px; 
+        cursor: pointer;
+    }
+ 
